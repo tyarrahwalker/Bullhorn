@@ -46,5 +46,6 @@ group :development, :test do
   gem "font-awesome-rails"
   gem "therubyracer"
   gem 'simple_form'
+  gem 'devise'
 end
 
